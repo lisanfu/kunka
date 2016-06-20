@@ -61,8 +61,8 @@ nav:
 
 #Author config
 author:
-    name: 掌心
-    email: zhanxin.info@gmail.com
+    name: 咱们继续幸福
+    email: 874359874@qq.com
     imageLink: http://tp2.sinaimg.cn/1832671293/180/40020872447/1
     simpleIntro: 我是「展新展新」，一个矛盾体的化身，在你的掌心里。
     detailIntro:
@@ -87,7 +87,7 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
+    - text: 咱们继续幸福
       url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
