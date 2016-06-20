@@ -39,9 +39,9 @@ timezone:      null
 
 
 #Site config
-title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
+title: lisanfu Theme
+description: Just another lisanfu theme design and code by lisanfu.info.
+keywords: lisanfu Theme
 url: http://pizn.github.io/kunka
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
