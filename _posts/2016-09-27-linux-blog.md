@@ -2,7 +2,7 @@
 layout: post
 title:  linux之路
 date:   2016-09-27 16:45:11
-category: "主题"
+category: "linux"
 ---
 
 通配符常用语法：
