@@ -2,7 +2,7 @@
 layout: post
 title:  linux之路-文件管理
 date:   2016-09-29 15:45:11
-category: "主题"
+category: "linux"
 ---
  strings strings命令文件查找和比较 (文件可以是文本文件, 可执行文件,动态链接库,静态链接库)
  strings命令在对象文件或二进制文件中查找可打印的字符串。字符串是4个或更多可打印字符的任意序列，以换行符或空字符结束。
